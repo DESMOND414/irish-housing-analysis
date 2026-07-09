@@ -70,16 +70,7 @@ A single-page Power BI report (`powerbi/online-retail-sales-dashboard.pbix`):
 
 ---
 
-## Key Insights
 
-> Read these off your own dashboard and fill them in — keep them specific and numeric.
-
-- **Total revenue:** [FILL IN] across [FILL IN] orders, with an average order value of [FILL IN].
-- **Top market:** [FILL IN country] accounted for roughly [FILL IN]% of total revenue.
-- **Top product:** "[FILL IN product]" was the single highest revenue driver.
-- **Seasonality:** revenue [peaked / dipped] around [FILL IN month], suggesting [FILL IN].
-
----
 
 ## Repository Structure
 
