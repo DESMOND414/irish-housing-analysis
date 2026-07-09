@@ -66,7 +66,7 @@ A single-page Power BI report (`powerbi/online-retail-sales-dashboard.pbix`):
 - `Total Orders` — count of distinct invoices
 - `Average Order Value` — Total Revenue ÷ Total Orders
 
-![Dashboard](images/dashboard.png)
+![Dashboard](images/dashboard)
 
 ---
 
